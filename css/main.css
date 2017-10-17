@@ -97,7 +97,7 @@ img {
 	padding: 30px 0;
 }
 
-#headlines a.button {
+#headlines button a {
 	color: #fff;
 	font-size: 20px;
 	background-color: #00ccff;
@@ -106,12 +106,12 @@ img {
 	border-radius: 10px;
 }
 
-#headlines a.button {
+#headlines button a {
 	text-decoration: none;
 	text-transform: uppercase;
 }
 
-#headlines a.button:visited {
+#headlines button a:visited {
 	background-color: #b3f0ff;
 	color: #fff;
 }
