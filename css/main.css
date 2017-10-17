@@ -109,6 +109,7 @@ img {
 #headlines button a {
 	text-decoration: none;
 	text-transform: uppercase;
+	color: #fff;
 }
 
 #headlines button a:visited {
@@ -222,19 +223,3 @@ img {
 	padding-right: 10px;
 	font-size: 50px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
