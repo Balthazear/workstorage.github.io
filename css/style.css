@@ -1,0 +1,71 @@
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style: none;
+}
+
+h1 {
+	margin: 0;
+}
+
+.container {
+	margin: auto;
+	width: 80%;
+}
+
+#navbar .fa-sign-in, #navbar .fa-user-plus {
+	padding-right: 10px;
+}
+
+/*Main Header*/
+
+#main-header {
+	border-bottom: 1px solid #ccc;
+}
+
+.primary-text {
+	color: #00ccff;
+}
+
+.secondary-text {
+	color: #8c8c8c;
+}
+
+#navbar {
+	text-transform: uppercase;
+}
+
+#navbar li {
+	display: inline;
+	padding: 0 10px;
+	font-weight: bold;
+}
+
+#navbar li a {
+	text-decoration: none;
+	color: #000;
+}
+
+#navbar li a:visited {
+	color: #8c8c8c;
+}
+
+#navbar li a:hover {
+	color: #000;
+}
+
+#navbar ul {
+	padding: 0;
+}
+
+/*Media Queries*/
+
+@media(max-width: 480px) {
+
+}
