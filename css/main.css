@@ -111,7 +111,7 @@ img {
 	text-transform: uppercase;
 }
 
-#headlines button a:visited {
+#headlines a:visited {
 	background-color: #b3f0ff;
 	color: #fff;
 }
